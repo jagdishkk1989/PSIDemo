@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PSI Demo</string>
+    <string name="error_data_not_available">Sorry, Data is not available. Please try after sometime</string>
+    <string name="error_on_load_data">Unable to load data. Please try again.</string>
+</resources>

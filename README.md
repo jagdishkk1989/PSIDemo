@@ -12,7 +12,7 @@ Featured design pattern and components
 
 - Dagger 2
 - RxJava
-- Eventbus
+- Butter knife
 - MVVM model
 
 
